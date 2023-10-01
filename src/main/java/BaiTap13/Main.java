@@ -10,7 +10,7 @@ public class Main {
         System.out.println(intern1.ShowInfo());
         System.out.println(intern2.ShowInfo());
         System.out.println(intern2.ShowMe());
-
+        System.out.println("a");
         System.out.println(fresher.ShowInfo());
         System.out.println(fresher.ShowMe());
 
