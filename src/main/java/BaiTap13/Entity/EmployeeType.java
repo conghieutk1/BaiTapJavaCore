@@ -1,4 +1,4 @@
-package BaiTap13;
+package BaiTap13.Entity;
 
 public enum EmployeeType {
     EXPERIENCE,
